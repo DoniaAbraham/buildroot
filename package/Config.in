@@ -707,6 +707,7 @@ menu "Javascript"
 	source "package/jquery-validation/Config.in"
 	source "package/jsmin/Config.in"
 	source "package/json-javascript/Config.in"
+	source "package/spidermonkey/Config.in"
 endmenu
 
 menu "JSON/XML"
